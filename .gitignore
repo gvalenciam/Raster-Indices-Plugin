@@ -1,0 +1,6 @@
+help/
+__pycache__
+README.html
+README.txt
+river_indexes_dialog_base.ui
+.DS_Store
