@@ -51,7 +51,6 @@ except:
 # Initialize Qt resources from file resources.py
 # Import the code for the dialog
 
-
 class RasterIndices:
     """QGIS Plugin Implementation."""
 
