@@ -1,4 +1,4 @@
-# Water Recognition Indices
+# Water Recognition Indices / Index Calculator & Binarizer
 
 # Purpose
 
